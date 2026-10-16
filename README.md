@@ -1,119 +1,78 @@
- <div align="center">
+<div align="center">
 
 # ABHINAV GUPTA
 
-### ROBOTICS · EMBEDDED SYSTEMS · ELECTRONICS
+### ROBOTICS | EMBEDDED SYSTEMS | ELECTRONICS
 
 *Engineering ideas into reality, one iteration at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/abhinavgupta-maker)
-[![Repositories](https://img.shields.io/badge/Explore-My_Projects-0D9488?style=for-the-badge&logo=github)](https://github.com/abhinavgupta-maker?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Explore-My_Repositories-0D9488?style=for-the-badge&logo=github)](https://github.com/abhinavgupta-maker?tab=repositories)
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+## 01 / ABOUT ME
 
-Hey! I'm Abhinav, a student developer interested in robotics, embedded systems, electronics, and autonomous machines.
+I'm Abhinav, a student interested in robotics, embedded systems, electronics, and autonomous machines.
 
-I enjoy working across hardware and software — from designing mechanical assemblies and PCBs to writing firmware and exploring computer vision.
+I enjoy exploring the intersection of hardware and software, from mechanical design and PCB development to embedded programming and computer vision.
 
-- 🤖 Exploring robotics and autonomous systems
-- ⚡ Building with microcontrollers, sensors, and electronics
-- 🛠️ Learning through CAD, simulation, prototyping, and debugging
-- 🌱 Continuously improving my engineering and software development skills
-
----
-
-## `02 / WHAT I'M BUILDING`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 AgriRover
-
-An agricultural rover design exploring autonomous navigation and plant perception.
-
-- Raspberry Pi and camera-based vision
-- LiDAR-based obstacle detection
-- STM32 motor-control architecture
-- Four-wheel differential drive
-
-**Status:** Design and simulation
-
-</td>
-<td width="50%" valign="top">
-
-### 🎧 ESP32 MP3 Player
-
-A custom embedded-audio project focused on electronics and audio hardware integration.
-
-- ESP32-WROOM-32UE
-- Custom PCB and schematic design
-- Audio circuitry and power management
-- Embedded firmware
-
-**Status:** In development
-
-</td>
-</tr>
-</table>
+- Robotics and autonomous systems
+- Microcontrollers, sensors, and electronics
+- CAD, circuit design, and simulation
+- Computer vision and software development
 
 ---
 
-## `03 / SELECTED PROJECTS`
+## 02 / SELECTED PROJECTS
 
-### 🐕 [NYX — Robot Dog](https://github.com/abhinavgupta-maker/Robot-Dog)
+### [NYX — Robot Dog](https://github.com/abhinavgupta-maker/Robot-Dog)
 
-An 8-DOF quadruped robotics project exploring servo-based actuation and robot kinematics.
+An eight-degree-of-freedom quadruped robotics project exploring servo-based actuation and robot kinematics.
 
-**Focus:** CAD · Embedded systems · Electronics · Motion control
+**Areas:** CAD, embedded systems, electronics, motion control
 
-### 🦾 [Gesture-Controlled Robotic Arm](https://github.com/abhinavgupta-maker/Gesture-controlled-Roboticarm)
+### [Gesture-Controlled Robotic Arm](https://github.com/abhinavgupta-maker/Gesture-controlled-Roboticarm)
 
-A robotics project exploring gesture-based control and sensor integration.
+A robotics project exploring gesture-based interaction, sensor integration, and robotic control.
 
-**Focus:** Embedded programming · Sensors · Robotics
+**Areas:** Embedded programming, sensors, robotics
 
-### ⚙️ [SwitchBlade-X](https://github.com/abhinavgupta-maker/SwitchBlade-X)
+### [SwitchBlade-X](https://github.com/abhinavgupta-maker/SwitchBlade-X)
 
-Explore the repository for its implementation, design details, and current development status.
+Explore the repository for its implementation details, design decisions, and technical documentation.
 
 ---
 
-## `04 / ACHIEVEMENTS & RECOGNITION`
+## 03 / ACHIEVEMENTS & RECOGNITION
 
-- **FIRST Global Challenge — Team India Selection 2026:** Participated in the selection process with Axiom Robotics; the team reached the top 30 among 100+ teams before the interview stage.
-- **Fallout Hackathon:** Built a gesture-controlled air mouse project using sensor-based interaction and a display.
+- **FIRST Global Challenge — Team India Selection 2026:** Participated in the selection process as part of Axiom Robotics. The team reached the top 30 among 100+ teams before the interview stage.
+- **Fallout Hackathon:** Developed a gesture-controlled air mouse concept combining sensor-based interaction with a display.
 - **Robotics Competitions:** Participated in student robotics competitions and engineering challenges.
 
-*This section highlights participation and milestones, not unverified awards or rankings.*
+---
+
+## 04 / ENGINEERING APPROACH
+
+I believe good engineering is about more than making a prototype work. It involves understanding the underlying systems, documenting decisions, identifying failure modes, and iterating toward more reliable designs.
+
+My interests span:
+
+- Embedded control systems and firmware
+- Robotics kinematics and motion control
+- PCB design and electronics debugging
+- Computer vision for autonomous systems
+- Mechanical design and engineering simulation
 
 ---
 
-## `05 / ENGINEERING LAB`
-
-I believe engineering is as much about debugging and iteration as it is about building.
-
-Things I'm exploring:
-
-- **Embedded control:** Designing reliable motor-control logic for robotics.
-- **Electronics:** Understanding schematic design, PCB layout, and power management.
-- **Computer vision:** Exploring image processing and object detection for autonomous robots.
-- **Mechanical design:** Developing CAD assemblies and studying mechanisms for robotics.
-- **Simulation:** Testing system behavior before physical implementation.
-
-> Build. Test. Understand. Improve.
-
----
-
-## `06 / TECH STACK`
+## 05 / TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -124,7 +83,7 @@ Things I'm exploring:
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
-### Engineering & Software Tools
+### Engineering Tools
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -134,48 +93,36 @@ Things I'm exploring:
 
 ---
 
-## `07 / COMMUNITY & LEADERSHIP`
+## 06 / COMMUNITY & LEADERSHIP
 
-### 🏕️ Haven Varanasi
+### Haven Varanasi
 
 Organizing a student-focused hackathon initiative to bring young builders together, encourage hands-on learning, and create opportunities for collaboration.
 
-My interests extend beyond building projects — I also enjoy helping create communities where other students can learn, experiment, and build.
+I believe in building communities where students can learn by doing, exchange ideas, and work together on meaningful projects.
 
 ---
 
-## `08 / CURRENTLY LEARNING`
-
-- Embedded firmware and motor control
-- Robotics kinematics and simulation
-- Computer vision for autonomous systems
-- PCB design and electronics debugging
-- Writing cleaner, better-documented code
-
----
-
-## `09 / GITHUB ACTIVITY`
+## 07 / GITHUB ACTIVITY
 
 <div align="center">
 
-![Contribution Graph](https://ghchart.rshah.org/abhinavgupta-maker)
+![GitHub Contribution Graph](https://ghchart.rshah.org/abhinavgupta-maker)
 
-[![GitHub repositories](https://img.shields.io/badge/View-All_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/abhinavgupta-maker?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github)](https://github.com/abhinavgupta-maker?tab=repositories)
 
 </div>
 
 ---
 
-## `10 / LET'S CONNECT`
+## 08 / CONTACT
 
-Interested in robotics, embedded systems, open-source hardware, or collaborating on engineering projects?
+Interested in robotics, embedded systems, open-source hardware, or engineering collaboration?
 
-Feel free to explore my repositories and connect through GitHub.
+Explore my repositories and connect with me through GitHub.
 
 <div align="center">
 
-### BUILD. EXPERIMENT. ITERATE.
-
-**Thanks for visiting my profile!**
+**BUILD. EXPERIMENT. ITERATE.**
 
 </div>
